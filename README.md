@@ -2,7 +2,7 @@
 
 I'm Zaher, a 5th year Ph.D. student at the [Informations Systems Department at the University of Maryland, Baltimore County](https://informationsystems.umbc.edu). I work with [Dr. Nirmalya Roy](https://userpages.umbc.edu/~nroy/) in the [Mobile, Pervasive, and Sensor Computing (MPSC) Lab](http://mpsc.umbc.edu/).
 
-My research is focused on building scalable, visual/inertial complex-activity recognition models with minimal-to-no label information and deal with the wide variability in human motion data. To that end, I primarily work on deep unsupervised and self-supervised representation learning and discovering the optimum transferability of the representations between domains, tasks, and sensor modalities.
+My research is focused on building scalable, visual/inertial complex-activity recognition models with minimal-to-no label information and deal with the wide variability in human motion data. To that end, I primarily work on deep unsupervised, self-supervised and adversarial representation learning and discovering the optimum transferability of the representations between domains, tasks, and sensor modalities.
 
 Before coming back to graduate school, I have spent more than 𝟳+ years in the industry building (and later leading teams in developing) distributed & scalable back-ends. I've also been an active contributor in a few open source projects through [Google Summer of Code program](https://summerofcode.withgoogle.com/) (both as a participant and later in mentoring roles)
 
