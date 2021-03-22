@@ -2,9 +2,9 @@
 
 I'm Zaher, a 5th year Ph.D. student at the [Informations Systems Department at the University of Maryland, Baltimore County](https://informationsystems.umbc.edu). I work with [Dr. Nirmalya Roy](https://userpages.umbc.edu/~nroy/) in the [Mobile, Pervasive, and Sensor Computing (MPSC) Lab](http://mpsc.umbc.edu/).
 
-My research is focused on building scalable machine learning models that are robust against domain and category shifts with minimal-to-no extra label information. To that end, I primarily work on deep unsupervised, self-supervised, adversarial representation learning & learnable data augmentation techniques. I’m interested in discovering the optimum transferability of the representations between domains, tasks, and sensor modalities (e.g. in human action recognition).
+My research is focused on building scalable machine learning models that are robust against domain and category shifts with minimal-to-no extra label information. To that end, I primarily work on deep unsupervised, self-supervised, adversarial, disentangled (interpretable) representation learning & learnable data augmentation techniques. I’m interested in discovering the optimum transferability of the representations between domains, tasks, and modalities (e.g. in human action recognition).
 
-I also completed an applied scientist internship @Amazon recently (summer 2020) where I improved the latency and robustness of a neural machine translation system under noisy inputs using some of the above ideas.
+During summer 2020, I completed an applied scientist internship at Amazon where I improved the latency and robustness of a neural machine translation system under noisy inputs using some of the above ideas. I will be joining Microsoft Research Redmond (Audio Research Group) as an research intern in summer 2021.
 
 Before coming back to graduate school, I have spent around 8 years in the industry building (and later leading teams in developing) distributed & scalable back-ends. I've also been an active contributor in a few open source projects through [Google Summer of Code program](https://summerofcode.withgoogle.com/) (both as a participant and later in mentoring roles)
 
