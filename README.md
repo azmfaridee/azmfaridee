@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Zaher, a 5th year Ph.D. student at the [Informations Systems Department at the University of Maryland, Baltimore County](https://informationsystems.umbc.edu). I work with [Dr. Nirmalya Roy](https://userpages.umbc.edu/~nroy/) in the [Mobile, Pervasive, and Sensor Computing (MPSC) Lab](http://mpsc.umbc.edu/).
+I'm Zaher, a Final year Ph.D. Candiate at the [Informations Systems Department at the University of Maryland, Baltimore County](https://informationsystems.umbc.edu). I work with [Dr. Nirmalya Roy](https://userpages.umbc.edu/~nroy/) in the [Mobile, Pervasive, and Sensor Computing (MPSC) Lab](http://mpsc.umbc.edu/).
 
 My research is focused on building scalable machine learning models that are robust against domain and category shifts with minimal-to-no extra label information. To that end, I primarily work on deep unsupervised, self-supervised, adversarial, disentangled (interpretable) representation learning & learnable data augmentation techniques. I’m interested in discovering the optimum transferability of the representations between domains, tasks, and modalities (e.g. in human action recognition).
 
